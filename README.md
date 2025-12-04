@@ -3,7 +3,7 @@
 **Research Paper (by Meta AI)** 👉 : [Chain-of-Verification Reduces Hallucination in Large Language Models ](https://arxiv.org/pdf/2309.11495)
 
 
-![License](https://img.shields.io/badge/License-MIT-green) ![Topic](https://img.shields.io/badge/Topic-LLM%20Hallucination-blue)![Topic](https://img.shields.io/badge/Topic-Agentic%20Reasoning-blue) ![Status](https://img.shields.io/badge/Status-Educational%20Resource-orange)
+![License](https://img.shields.io/badge/License-MIT-green) ![Topic](https://img.shields.io/badge/Topic-LLM%20Hallucination-blue) ![Topic](https://img.shields.io/badge/Topic-Agentic%20Reasoning-blue) ![Status](https://img.shields.io/badge/Status-Educational%20Resource-orange)
 
 ## 📖 Overview
 This repository contains a detailed **Study Guide** based on the research paper *"Chain-of-Verification Reduces Hallucination in Large Language Models"*. 
